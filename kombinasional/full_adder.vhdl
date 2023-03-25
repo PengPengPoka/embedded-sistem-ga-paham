@@ -5,16 +5,16 @@ LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.numeric_std.all;
 
-entity main is
+entity fa is
   port (
     A: in std_logic;
     B: in std_logic;
     Ci: in std_logic;
     S: out std_logic;
     Co: out std_logic);
-end main;
+end fa;
 
-architecture Behavioral of main is
+architecture Behavioral of fa is
   signal s0: std_logic;
 begin
   s0 <= (A XOR B);

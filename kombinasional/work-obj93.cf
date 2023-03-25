@@ -1,0 +1,7 @@
+v 4
+file . "full_adder_tb.vhdl" "211423493c89cd54c137658318764cff37b31fbd" "20230325061522.155":
+  entity fa_tb at 1( 0) + 0 on 17;
+  architecture test of fa_tb at 8( 102) + 0 on 18;
+file . "full_adder.vhdl" "7dbca48097954e646c2bca90210b8b7cb7506929" "20230325061517.550":
+  entity fa at 4( 107) + 0 on 15;
+  architecture behavioral of fa at 17( 318) + 0 on 16;
