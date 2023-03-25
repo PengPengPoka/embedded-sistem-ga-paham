@@ -5,16 +5,16 @@ LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.numeric_std.all;
 
-entity main is
+entity sr_ff is
   port (
     S: in std_logic;
     R: in std_logic;
     Clk: in std_logic;
     Q: out std_logic;
     Qo: out std_logic);
-end main;
+end sr_ff;
 
-architecture Behavioral of main is
+architecture Behavioral of sr_ff is
   signal Qo_temp: std_logic;
   signal Q_temp: std_logic;
 begin

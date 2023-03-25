@@ -1,0 +1,97 @@
+$date
+  Sat Mar 25 19:10:39 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module sr_ff_tb $end
+$var reg 1 ! s $end
+$var reg 1 " r $end
+$var reg 1 # clk $end
+$var reg 1 $ q $end
+$var reg 1 % qo $end
+$scope module sr_latch $end
+$var reg 1 & s $end
+$var reg 1 ' r $end
+$var reg 1 ( clk $end
+$var reg 1 ) q $end
+$var reg 1 * qo $end
+$var reg 1 + qo_temp $end
+$var reg 1 , q_temp $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+X!
+X"
+X#
+U$
+U%
+X&
+X'
+X(
+U)
+U*
+U+
+U,
+#1000000
+0!
+0"
+0#
+0&
+0'
+0(
+#2000000
+1!
+1&
+#3000000
+0!
+1"
+0&
+1'
+#4000000
+1!
+1&
+#5000000
+0!
+0"
+1#
+0&
+0'
+1(
+#6000000
+1!
+0$
+1%
+1&
+0)
+1*
+1+
+0,
+#7000000
+0!
+1"
+1$
+0%
+0&
+1'
+1)
+0*
+0+
+1,
+#8000000
+1!
+0$
+1&
+0)
+0,
+#9000000
