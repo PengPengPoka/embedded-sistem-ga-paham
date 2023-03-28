@@ -1,2 +1,2 @@
-# embedded-sistem-ga-paham
-tugas embedded yang tidak saya pahami tapi dikerjakan semaksimal mungkin
+# vhdl stuff
+awalnya yang tugas embedded menjadi repo untuk store semua file vhdl
