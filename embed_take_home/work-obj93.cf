@@ -1,0 +1,7 @@
+v 4
+file . "comparator_tb.vhdl" "3e1cd2bbedcb786559929ca1521c9a21c5fc7b9b" "20230408052309.499":
+  entity comparator_tb at 1( 0) + 0 on 13;
+  architecture test of comparator_tb at 8( 116) + 0 on 14;
+file . "comparator.vhdl" "00d37eb3dd111665ec51fdf4cf9f80fe2fa3fa71" "20230408050941.498":
+  entity compr_2 at 1( 0) + 0 on 11;
+  architecture compr_dfl of compr_2 at 11( 184) + 0 on 12;
